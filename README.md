@@ -6,4 +6,5 @@ This repository contains materials and resources used during the Object-Oriented
    Sample Python scripts that demonstrate the implementation of OOP principles. These examples help in understanding how to structure code using classes, deal with complex data models, and implement interfaces and inheritance.
 
 2. **Exercises:**
+   [Find the question here](https://github.com/Jobin-S/python-oops-mbcet/blob/main/questions.md) <br>
    Interactive problems and exercises that attendees worked on during the workshop to practice coding in Python and to reinforce their understanding of OOP concepts.
