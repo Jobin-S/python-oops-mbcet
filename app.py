@@ -1,3 +1,4 @@
+# more comprehensive example demonstrating inheritance:
 class Vehicle:
     def __init__(self, make, model):
         self.make = make
